@@ -1,0 +1,50 @@
+  [{
+		"AdiSoyadi": "Mustafa Kemal Atatürk",
+		"DogumTarihi": "1881",
+		"GorevAraligi": "1923-1938",
+		"ResimURL": "https://raw.githubusercontent.com/yunuseymen/hr200031_yunus_eymen_caliskan/main/ataturk.jpg",
+		"KapakURL": "https://raw.githubusercontent.com/yunuseymen/hr200031_yunus_eymen_caliskan/main/fors1.jpg",
+		"Detay": "Cumhurbaşkanlığı yaptığı dönemde Cumhuriyet Halk Partisi genel başkanıydı."
+	},
+	{
+		"AdiSoyadi": "İsmet İnönü",
+		"DogumTarihi": "1884",
+		"GorevAraligi": "1938-1950",
+		"ResimURL": "https://raw.githubusercontent.com/yunuseymen/hr200031_yunus_eymen_caliskan/main/inönü.jpg",
+		"KapakURL": "https://raw.githubusercontent.com/yunuseymen/hr200031_yunus_eymen_caliskan/main/fors1.jpg",
+		"Detay": "Mustafa İsmet İnönü, Osmanlı döneminde albay, Cumhuriyet döneminde orgeneral ve eski Genelkurmay Başkanı olan, cumhuriyetin ilanından sonra Türkiye'nin ilk Başbakanı, ikinci Cumhurbaşkanı, İstiklal Madalyası sahibi Türk asker ve siyasetçidir.."
+	},
+ 	{
+		"AdiSoyadi": "Celâl Bayar",
+		"DogumTarihi": "1883",
+		"GorevAraligi": "1950-1960",
+		"ResimURL": "https://raw.githubusercontent.com/yunuseymen/hr200031_yunus_eymen_caliskan/main/celalBayar.png",
+		"KapakURL": "https://raw.githubusercontent.com/yunuseymen/hr200031_yunus_eymen_caliskan/main/fors1.jpg",
+		"Detay": "Mahmud Celâleddin Bayar, Türk ekonomist ve siyasetçi. Çağdaş Türkiye'nin siyasi yaşamının çeşitli dönemlerinde önemli roller oynamış olan Bayar, Meclis-i Mebusan üyesi, cumhuriyet döneminde iktisat vekili, Mustafa Kemal Atatürk'ün son başbakanı ve 1950-1960 arasında Türkiye'nin üçüncü ve asker kökenli olmayan ilk"
+	},
+ 	{
+		"AdiSoyadi": "Cemal Gürsel",
+		"DogumTarihi": "1895",
+		"GorevAraligi": "1960-1961",
+		"ResimURL": "https://raw.githubusercontent.com/yunuseymen/hr200031_yunus_eymen_caliskan/main/cemalGursel.png",
+		"KapakURL": "https://raw.githubusercontent.com/yunuseymen/hr200031_yunus_eymen_caliskan/main/fors1.jpg",
+		"Detay" : "Cemal Gürsel Türk asker ve devlet adamı. 1960 Darbesi sonrası oluşturulan Millî Birlik Komitesi Başkanı ve Türkiye Cumhuriyeti'nin dördüncü cumhurbaşkanıdır."
+	},
+ 	{
+		"AdiSoyadi": "Cevdet Sunay",
+		"DogumTarihi": "1899",
+		"GorevAraligi": "1966-1966",
+		"ResimURL": "https://raw.githubusercontent.com/yunuseymen/hr200031_yunus_eymen_caliskan/main/cevdetSunay.jpg",
+		"KapakURL": "https://raw.githubusercontent.com/yunuseymen/hr200031_yunus_eymen_caliskan/main/fors1.jpg",
+		"Detay": "Ahmet Cevdet Sunay, Türk asker ve devlet adamı. Türkiye'nin 5. Cumhurbaşkanı ve Türk Silahlı Kuvvetlerinin 12. Genelkurmay Başkanıdır."
+	},
+	 {
+		"AdiSoyadi": "Fahri Korutürk",
+		"DogumTarihi": "1903",
+		"GorevAraligi": "1973-1980",
+		"ResimURL": "https://raw.githubusercontent.com/yunuseymen/hr200031_yunus_eymen_caliskan/main/fahriKoruturk.jpg",
+		"KapakURL": "https://raw.githubusercontent.com/yunuseymen/hr200031_yunus_eymen_caliskan/main/fors1.jpg",
+		"Detay": "Fahri Sabit Korutürk ya da Esseyit Hasan Fahri Korutürk, Türk asker ve siyasetçi, eski Türk Deniz Kuvvetleri komutanı ve Türkiye'nin 6. Cumhurbaşkanı. 1957–1960 yılları arasında Türk Deniz Kuvvetleri Komutanı olarak görev yapmış olan Korutürk, 1973–1980 yılları arasında Cumhurbaşkanlığı görevini sürdürmüştür."
+	}
+
+]
